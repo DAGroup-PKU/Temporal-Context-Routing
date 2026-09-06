@@ -17,6 +17,7 @@
   <a href="https://arxiv.org/abs/2609.02367"><img src="https://img.shields.io/badge/arXiv-2609.02367-b31b1b"></a>
   <a href="https://huggingface.co/papers/2609.02367"><img src="https://img.shields.io/badge/Hugging%20Face-Daily%20Paper-ffcc4d"></a>
   <a href="https://huggingface.co/starry0929/Temporal-Context-Routing"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Weights-ffcc4d"></a>
+  <a href="https://huggingface.co/spaces/hugging-apps/temporal-context-routing"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Space-Interactive%20Demo-ffcc4d"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-LTX--2-3fa34d"></a>
 </p>
 
@@ -128,21 +129,21 @@ bash scripts/train.sh \
 
 ## 🙏 Acknowledgement
 
-Our work builds on [LTX-2](https://github.com/Lightricks/LTX-2) and [Gemma](https://huggingface.co/google/gemma-3-12b-it). Demos, the overview film, and per-clip clocks are hosted on the [project page](https://dagroup-pku.github.io/Temporal-Context-Routing.github.io/).
+Our work builds on [LTX-2](https://github.com/Lightricks/LTX-2) and [Gemma](https://huggingface.co/google/gemma-3-12b-it). Demos, the overview film, and per-clip clocks are hosted on the [project page](https://dagroup-pku.github.io/Temporal-Context-Routing.github.io/). We sincerely thank the Hugging Face team for creating the official [interactive demo Space](https://huggingface.co/spaces/hugging-apps/temporal-context-routing).
 
 ## ✏️ Citation
 
 If you find this work useful, please consider giving a ⭐ and citing:
 
 ```bibtex
-@inproceedings{liu2027missingtemporallink,
-  title     = {The Missing Temporal Link: Temporal Context Routing
-               for Script-Driven Audio-Video Generation},
-  author    = {Liu, Yichen and Zhang, Quanwei and Wang, Haozhe and
-               Zhou, Donghao and Li, Xiaojie and Shi, Yang and Liu, Jiaming and
-               Huang, Ruihua and Zou, Yingtian and Zhou, Daquan},
-  booktitle = {Under review},
-  year      = {2027}
+@misc{liu2026missingtemporallinktemporal,
+  title         = {The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation},
+  author        = {Yichen Liu and Quanwei Zhang and Haozhe Wang and Donghao Zhou and Xiaojie Li and Yang Shi and Jiaming Liu and Ruihua Huang and Yingtian Zou and Daquan Zhou},
+  year          = {2026},
+  eprint        = {2609.02367},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.MM},
+  url           = {https://arxiv.org/abs/2609.02367}
 }
 ```
 
