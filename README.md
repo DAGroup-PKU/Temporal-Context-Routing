@@ -3,13 +3,13 @@
 <h1>The Missing Temporal Link: Temporal Context Routing<br>for Script-Driven Audio-Video Generation</h1>
 
 <p>
-  Yichen Liu<sup>1</sup>, Quanwei Zhang<sup>2</sup>, Haozhe Wang<sup>3</sup>, Donghao Zhou<sup>4</sup>, Xiaojie Li<br>
-  Yang Shi<sup>2</sup>, Jiaming Liu<sup>2</sup>, Ruihua Huang<sup>2</sup>, Yingtian Zou<sup>5</sup>, Daquan Zhou<sup>1</sup>
+  Yichen Liu<sup>1</sup>, Quanwei Zhang<sup>2</sup>, Haozhe Wang<sup>3</sup>, Donghao Zhou<sup>4</sup>, Jiankun Zhang<sup>5</sup>, Xiaojie Li<br>
+  Yang Shi<sup>2</sup>, Jiaming Liu<sup>2</sup>, Ruihua Huang<sup>2</sup>, Yingtian Zou<sup>6</sup>, Daquan Zhou<sup>1</sup>
 </p>
 
 <p>
   <sup>1</sup>&nbsp;Peking University&nbsp;&nbsp;&middot;&nbsp;&nbsp;<sup>2</sup>&nbsp;Qwen Applications<br>
-  <sup>3</sup>&nbsp;HKUST&nbsp;&nbsp;&middot;&nbsp;&nbsp;<sup>4</sup>&nbsp;CUHK&nbsp;&nbsp;&middot;&nbsp;&nbsp;<sup>5</sup>&nbsp;Shanghai Jiao Tong University
+  <sup>3</sup>&nbsp;HKUST&nbsp;&nbsp;&middot;&nbsp;&nbsp;<sup>4</sup>&nbsp;CUHK&nbsp;&nbsp;&middot;&nbsp;&nbsp;<sup>5</sup>&nbsp;University of Chicago&nbsp;&nbsp;&middot;&nbsp;&nbsp;<sup>6</sup>&nbsp;Shanghai Jiao Tong University
 </p>
 
 <p align="center">
@@ -138,7 +138,7 @@ If you find this work useful, please consider giving a ⭐ and citing:
 ```bibtex
 @misc{liu2026missingtemporallinktemporal,
   title         = {The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation},
-  author        = {Yichen Liu and Quanwei Zhang and Haozhe Wang and Donghao Zhou and Xiaojie Li and Yang Shi and Jiaming Liu and Ruihua Huang and Yingtian Zou and Daquan Zhou},
+  author        = {Yichen Liu and Quanwei Zhang and Haozhe Wang and Donghao Zhou and Jiankun Zhang and Xiaojie Li and Yang Shi and Jiaming Liu and Ruihua Huang and Yingtian Zou and Daquan Zhou},
   year          = {2026},
   eprint        = {2609.02367},
   archivePrefix = {arXiv},
